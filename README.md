@@ -1,4 +1,4 @@
 JohnPaige_COMP225
 =================
 
-I am currently going through excercises in the online android tutorial.  I sent an email asking for an extension until Friday, this weekend, or the beginning of next week.
+My android app is modeled after the website ilikeyourjacket.com, and compliments the user whenever they click a button on the top of the screen.  Multiple text fields display the compliment, the author of the compliment, and the number of compliments the user has received.  Additionally, the background color of the screen changes color between red, green, and blue to add to the jolly atmosphere of the app.  All compliments have been taken from the website listed above.
